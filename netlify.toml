@@ -1,0 +1,8 @@
+[build]
+base = "react-drag-drop-layout-builder/"
+publish = "react-drag-drop-layout-builder/build/"
+command = "yarn build"
+[[redirects]]
+from = "/*"
+to = "/index.html"
+status = 200
