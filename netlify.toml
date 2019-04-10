@@ -1,6 +1,6 @@
 [build]
 base = "react-drag-drop-layout-builder/"
-publish = "react-drag-drop-layout-builder/build/"
+publish = "react-drag-drop-layout-builder/dist/"
 command = "yarn build"
 [[redirects]]
 from = "/*"
